@@ -5,3 +5,4 @@ x = np.linspace(-100 , 10, 100)
 y = np.sin(x) 
 plt.plot(x, y, marker="x")
 plt.show()
+#python program
